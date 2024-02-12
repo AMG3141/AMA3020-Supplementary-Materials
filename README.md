@@ -2,4 +2,4 @@
 
 ## Project 40: Paper-scissors-stone. . . and jelly babies!
 
-Todo: Give a description of all the files we upload here
+main.py - The code to run the various simulations of the games. The variable `case` controls which version is run.
